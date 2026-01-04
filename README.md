@@ -23,6 +23,7 @@ This is a Python app that shows weather data from accessible meteorological stat
 - pandas
 - numpy
 - matplotlib
+- Tkinter
 - requests
 
 ## Author
